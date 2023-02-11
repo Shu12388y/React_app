@@ -8,7 +8,7 @@ function navbar(){
                 <li className='list_name'>
                     home
                 </li>
-                <li>
+                <li className="list_name02">
                     contact us
                 </li>
                 <li>
